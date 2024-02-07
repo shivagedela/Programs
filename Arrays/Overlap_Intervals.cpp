@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+/*** Problem - Given group of intervals, merge overlapping intervals and show output ***/
+
 // Efficient Approach - Sort based on start of intervals and then merge intervals 
 vector<vector<int>> bestWay(vector<vector<int>> vec2D, int n)
 {
