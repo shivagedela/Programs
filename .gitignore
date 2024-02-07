@@ -6,3 +6,6 @@
 bin/
 # or
 */bin/*
+
+# Ignore vscode files
+*.vscode
